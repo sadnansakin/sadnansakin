@@ -5,10 +5,12 @@
     I would like to learn new things every day.
     
 ### Skills & Experience ⚡
-    - 💥Programming Language: Python,Java,Fortran.
-    - 💥Web & Scripting Languages: HTML  / Basics of PHP / Shell Scripting (bash).
-    - 💥Operating Systems: Microsoft Windows / Kali Linux / Different Linux distros.
-    - 💥Cryptography / Osint / Steganograph / Web Pentesting / VAPT .
+    - 💥 Programming Language: Python,Java,Fortran.
+    - 💥 Web & Scripting Languages: HTML  / Basics of PHP / Shell Scripting (bash).
+    - 💥 Operating Systems: Microsoft Windows / Kali Linux / Different Linux distros.
+    - 💥 Office Software: Microsoft Word / MS Excel / MS PowerPoint .
+    - 💥 Cyber Security Mentor at [Cyber Bangla] (https://cyberbangla.org/)
+    - 💥 Cryptography / Osint / Steganograph / Web Pentesting / VAPT .
     - 💀 Ethical Hacking / Basic Networking / CTF Player.
     - 👀 Try Hack Me / Cyber Talents / Pico Ctf.
     - 💪 Burp-Suite / Metasploit / Nmap /  Wireshark / Fuff / Nuclei / Jon the ripper / Hydra / Sqlmap / etc.
