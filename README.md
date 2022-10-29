@@ -1,7 +1,7 @@
 ### WhoAmI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     Assalamu Alaikum.
     I'm Sadnan Sakin. I'm From Bangladesh.
-    I am Bug Bounty Hunter at [HackerOne] (https://hackerone.com/) , OSINT Enthusiast,Cyber Security Enthusiast.
+    I am Security Researcher at [HackerOne] (https://hackerone.com/) , OSINT Enthusiast,Cyber Security Enthusiast.
     I would like to learn new things every day.
     
 ### Skills & Experience ⚡
@@ -35,7 +35,7 @@
     
 ### Hobbies ☺️
     - Learning New Skill/Technology.
-    - Playing Game.(online&offline)
+    - Bug Hunting
     - Watching Movies & Drama.
     - Lisening Soft Song.
     
