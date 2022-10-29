@@ -1,7 +1,7 @@
 ### WhoAmI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     Assalamu Alaikum.
-    I'm Sadnan Sakin. I'm From Bangladesh.
-    I am Security Researcher at [HackerOne] (https://hackerone.com/) , OSINT Enthusiast,Cyber Security Enthusiast.
+    I'm Sadnan Sakin From Bangladesh.
+    I am a Security Researcher at [HackerOne] (https://hackerone.com/) , OSINT Enthusiast,Cyber Security Enthusiast.
     I would like to learn new things every day.
     
 ### Skills & Experience ⚡
@@ -25,6 +25,7 @@
     - Basic Networking.
 
 ### Collaborate 👯
+    - Cyber Bangla
     - CTF.
     - Tryhackme.
     - Knowledge Sharing.
