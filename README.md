@@ -26,7 +26,6 @@
     - Basic Networking.
 
 ### Collaborate 👯
-    - Cyber Bangla
     - CTF.
     - Tryhackme.
     - Knowledge Sharing.
