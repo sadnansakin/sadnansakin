@@ -2,7 +2,6 @@
     Assalamu Alaikum.
     I'm Sadnan Sakin From Bangladesh.
     I am a Security Researcher at [HackerOne] (https://hackerone.com/) , OSINT Enthusiast,Cyber Security Enthusiast.
-    I would like to learn new things every day.
     
 ### Skills & Experience ⚡
     - 💥 Programming Language: Python,Java,Fortran.
