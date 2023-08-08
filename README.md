@@ -8,11 +8,12 @@
     - 💥 Web & Scripting Languages: HTML  / Basics of PHP / Shell Scripting (bash).
     - 💥 Operating Systems: Microsoft Windows / Kali Linux / Different Linux distros.
     - 💥 Office Software: Microsoft Word / MS Excel / MS PowerPoint .
-    - 💥 Cyber Security Mentor at [Cyber Bangla] (https://cyberbangla.org/)
     - 💥 Cryptography / Osint / Steganograph / Web Pentesting / VAPT .
+    - 💥 OWASP Juice Shop / DVWA Lab 
+    - 💥 VMware 
     - 💀 Ethical Hacking / Basic Networking / CTF Player.
     - 👀 Try Hack Me / Cyber Talents / Pico Ctf.
-    - 💪 Burp-Suite / Metasploit / Nmap /  Wireshark / Fuff / Nuclei / Jon the ripper / Hydra / Sqlmap / etc.
+    - 💪 Burp-Suite / Metasploit / Nmap /  Wireshark / Fuff / Nuclei / Jon the ripper / Hydra / Sqlmap / MobSF framework etc.
 
 ### Working 🔭
     - Bug Bounty Hunting.
